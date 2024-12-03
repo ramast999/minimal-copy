@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Rama
-logo:/assets/img/logo.png
+logo: /assets/img/logo.png
 description: my site about my job and life 
 show_downloads: false
 google_analytics:
